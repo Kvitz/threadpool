@@ -1,0 +1,4 @@
+msvc/*/*.opensdf
+msvc/*/*.sdf
+msvc/*/*.suo
+msvc/*/Debug
